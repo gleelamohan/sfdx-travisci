@@ -7,7 +7,5 @@ public with sharing class myclass {
 		return '1.0.0';
 	}
 
-	public String getUserName() {
-		return 'testUser';
-	}
+	
 }
