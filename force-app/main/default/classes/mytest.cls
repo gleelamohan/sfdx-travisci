@@ -9,11 +9,5 @@ private class mytest {
         // System.assert(false);
     }
 
-     @isTest
-    static void checkValidUser() {
-        myclass demo = new myclass();
-        System.assertEquals(demo.getUserName(), 'testUser');
-        // Uncomment the following line to cause a build failure
-        // System.assert(false);
-    }
+   
 }
